@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PyOpenCV", "PyOpenCV\PyOpenCV.pyproj", "{39BD9D5F-CC0F-4EAE-BAE0-D208E28E7ED9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39BD9D5F-CC0F-4EAE-BAE0-D208E28E7ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39BD9D5F-CC0F-4EAE-BAE0-D208E28E7ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FCEF40C-D535-4FAC-8773-3252E92C959E}
+	EndGlobalSection
+EndGlobal
